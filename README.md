@@ -1,5 +1,5 @@
 # Домашнее задание к занятию "14.Средство визуализации Grafana"
-1. Сделал свой docker-compose файл для сборки стенда [docker-compose файла](./docker-compose/monitoring.yml).  
+1. Сделал свой [docker-compose файл](./docker-compose/monitoring.yml) для сборки стенда.   
    Поднятый prometheus подключен в качестве источника данных:  
    ![grafana data sources](./pictures/grafana%20data%20sources.PNG)
 2. Запросы:  
